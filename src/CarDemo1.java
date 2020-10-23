@@ -29,5 +29,6 @@ public class CarDemo1 {
         System.out.printf("%s kostar %, d kr \n", car1.model, car1.price);
         System.out.printf("%s kostar %, d kr \n", car2.model, car1.price);
         System.out.printf("%s kostar %, d kr \n", car3.model, car1.price);
+        sadsa
     }
 }
